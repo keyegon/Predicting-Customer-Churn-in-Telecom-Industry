@@ -6,6 +6,19 @@ With the rapid development of the telecommunication industry, service providers 
 Data Description
 The data contains 11 variables and of which Churn is the Target variable. 
 The complete data dictionary can be found here.
+
+Columns	Description
+  Churn: 1 if customer cancelled service, 0 if not
+  AccountWeeks: 	number of weeks customer has had active account
+  ContractRenewal:	1 if customer recently renewed contract, 0 if not
+  DataPlan:	1 if customer has data plan, 0 if not
+  DataUsage:	gigabytes of monthly data usage
+  CustServCalls:	number of calls into customer service
+  DayMins:	average daytime minutes per month
+  DayCalls:	average number of daytime calls
+  MonthlyCharge:	average monthly bill
+  OverageFee:	largest overage fee in last 12 months
+  RoamMins:	average number of roaming minutes
 Kindly download the data from here.
 
 Tasks
